@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Xcode
+ios/build/
+ios/Pods/
+
+# Android
+android/app/build/
+android/app/outputs/
+android/build/
+
+# Expo
+*.expo
+.expo/*
+*.jks
+*.p8
+*.keystore
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Metro Bundler cache
+.metro-bundler-cache/
+
+# Buck cache
+.buck-out/
+
+# Miscellaneous files
+*.log
+*.lock
+*.apk
+*.ipa
